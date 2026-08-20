@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lamefe
 - 👀 I’m interested in business development
-- 🌱 I’m working on several projects for myself 
-- 💞️ I’m looking to collaborate on intersting stuff
+- 🌱 I’m working on new ventures
 - 📫 You can reach me hello@mi-concepts.de
 
 <!---
